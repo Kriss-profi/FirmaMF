@@ -1,0 +1,15 @@
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\FirmaMF.DataAccess.deps.json
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\FirmaMF.DataAccess.dll
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\ref\FirmaMF.DataAccess.dll
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\FirmaMF.DataAccess.pdb
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.AssemblyInfoInputs.cache
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.AssemblyInfo.cs
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.dll
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\ref\FirmaMF.DataAccess.dll
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.pdb
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\FirmaMF.DataAccess.runtimeconfig.json
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\bin\Debug\net5.0\FirmaMF.DataAccess.runtimeconfig.dev.json
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.genruntimeconfig.cache
+C:\Users\krjk0\source\repos\FirmaMF\FirmaMF\FirmaMF.DataAccess\obj\Debug\net5.0\FirmaMF.DataAccess.csproj.AssemblyReference.cache
